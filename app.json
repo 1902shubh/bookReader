@@ -1,0 +1,17 @@
+{
+  "name": "bookReader",
+  "displayName": "bookReader",
+  "expo": {
+    "name": "bookReader",
+    "slug": "bookReader",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
